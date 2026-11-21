@@ -1,0 +1,15 @@
+from sqlalchemy import Column, Integer, String, DateTime
+from datetime import datetime
+from ..database import Base
+
+class User(Base):
+    __tablename__ = "users"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String(50), unique=True, index=True, nullable=False)
+    email = Column(String(100), unique=True, index=True, nullable=False)
+    full_name = Column(String(100), nullable=False)
+    role = Column(String(20), default="researcher")  # researcher, teacher, reviewer, admin
+    department = Column(String(100), default="Computer Science & Engineering")
+    institution = Column(String(150), default="KLE Technological University")
+    created_at = Column(DateTime, default=datetime.utcnow)

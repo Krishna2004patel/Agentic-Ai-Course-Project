@@ -1,0 +1,27 @@
+{
+  "project_id": 55,
+  "title": "Solar Energy Optimization",
+  "domain": "Civil,Ai",
+  "host_institution": "vvv",
+  "pi_name": "sir cc",
+  "pi_email": "",
+  "duration_weeks": 12,
+  "proposal": {
+    "version": 18,
+    "title": "Investigation into Solar Energy Optimization: An Agentic AI Framework for High-Assurance Decision Systems",
+    "executive_summary": "This research proposal presents a novel agentic methodology to address fundamental challenges in Solar Energy Optimization. Operating out of vvv, the project unites automated multi-agent coordination with verifiable domain guardrails, achieving measurable improvements over current industry benchmarks. The initiative directly targets core objectives in Civil,Ai by deploying verifiable experimental pipelines.",
+    "methodology": "The experimental methodology establishes a closed-loop renewable energy optimization architecture: (1) High-frequency telemetry acquisition from solar PV inverters and wind turbine controllers; (2) Multi-horizon irradiance and wind speed predictive modeling; (3) Multi-agent decentralized consensus dispatch algorithm; and (4) Experimental power hardware-in-the-loop validation under simulated grid disturbance scenarios."
+  },
+  "budget": {
+    "total_requested": 1500000.01,
+    "equipment": 547826.09,
+    "manpower": 326086.96,
+    "overhead": 130434.78
+  },
+  "compliance": {
+    "status": "WARNINGS",
+    "score": 70.0
+  },
+  "is_ready_for_approval": true,
+  "package_generated_at": "2026-11-20T15:26:11.646775"
+}

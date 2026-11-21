@@ -1,0 +1,89 @@
+--- ppt/slides/slide1.xml ---
+AGENTIC AI  (26ECAC401)
+Research Grant Management Worklet
+KLE
+KLE Technological University
+TEAM
+DISCIPLINE
+WORKLET  —  one-line goal
+CSE (AI)
+AGENT LOOP
+Goal
+Plan
+Act
+Observe
+Improve
+7 SKILLS
+14 HANDS-ON LABS
+CORE CONCEPTS COVERED
+HOW OUR WORKLET ADDRESSES IT
+1
+Agents
+L1  
+Agent vs Chatbot
+L2  
+Tool-Using Agent
+• 
+Agent
+• 
+Tools & Function Calling
+2
+Skills
+L3  
+Skill Creation
+L4  
+Memory & Retrieval
+• 
+Skills
+• 
+Memory & Context
+3
+MCP
+L5  
+MCP-Style Connector
+• 
+MCP Connector
+4
+OpenCLA / OpenClaw
+L6  
+OpenCLA/OpenClaw Runtime
+• 
+OpenCLA/OpenClaw Runtime
+5
+Swarms
+L7  
+Agentic Node Graph
+L8  
+Parallel Swarm
+• 
+Node Graphs
+• 
+Parallel Swarms
+6
+Deep Research
+L9  
+Deep Research Agent
+• 
+Deep Research
+7
+Cloud SDLC
+L10  
+Cloud Operations Agent
+L11  
+Agentic SDLC Factory
+L12  
+Safety & Governance
+• 
+Cloud Agents
+• 
+Agentic SDLC
+• 
+Responsible Autonomy
+KLE Technological University
+The grant assistant follows a goal → plan → act → observe loop and routes questions to the relevant grant, file or research-search tool.
+Reusable functions handle grant lookup, eligibility information and research-paper search; project memory can retain relevant facts for later retrieval.
+The MCP-style connector brings together three tools: SQLite grant database, permitted README file reader and the external OpenAlex API.
+The current worklet runs as a Python command-line program and invokes tools when requested; scheduled runs and detailed audit tracing are not implemented.
+The current workflow routes each question to the matching tool in sequence. Parallel agent swarms and a full node-graph workflow are future extensions.
+OpenAlex searches research papers by topic and returns metadata such as titles, authors, years and links to support research discovery.
+Safety is supported by a restricted local README reader and read-only database queries. Cloud deployment, CI evaluation and rollback controls are not yet implemented.

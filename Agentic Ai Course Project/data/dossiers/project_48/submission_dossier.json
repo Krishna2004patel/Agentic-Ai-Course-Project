@@ -1,0 +1,27 @@
+{
+  "project_id": 48,
+  "title": "Deep-Sea Autonomous Underwater Vehicle Telemetry and Swarm Mapping",
+  "domain": "Marine Robotics & Ocean Engineering",
+  "host_institution": "National Institute of Ocean Technology",
+  "pi_name": "Dr. S. K. Sundaram",
+  "pi_email": "sundaram@niot.res.in",
+  "duration_weeks": 20,
+  "proposal": {
+    "version": 16,
+    "title": "Investigation into Deep-Sea Autonomous Underwater Vehicle Telemetry and Swarm Mapping: An Agentic AI Framework for High-Assurance Decision Systems",
+    "executive_summary": "This research proposal presents a novel agentic methodology to address fundamental challenges in Deep-Sea Autonomous Underwater Vehicle Telemetry and Swarm Mapping. Operating out of National Institute of Ocean Technology, the project unites automated multi-agent coordination with verifiable domain guardrails, achieving measurable improvements over current industry benchmarks. The initiative directly targets core objectives in Marine Robotics & Ocean Engineering by deploying verifiable experimental pipelines.",
+    "methodology": "The methodology combines hierarchical agent orchestration with retrieval-augmented generation and deterministic tool validation. Agent roles are segmented into perception, planning, tool-assisted action, and automated safety verification."
+  },
+  "budget": {
+    "total_requested": 3600000.01,
+    "equipment": 1001739.13,
+    "manpower": 1189565.22,
+    "overhead": 313043.48
+  },
+  "compliance": {
+    "status": "WARNINGS",
+    "score": 80.0
+  },
+  "is_ready_for_approval": true,
+  "package_generated_at": "2026-11-20T15:20:53.877054"
+}

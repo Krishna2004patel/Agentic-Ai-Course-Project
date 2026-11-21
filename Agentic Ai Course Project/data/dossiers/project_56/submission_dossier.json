@@ -1,0 +1,27 @@
+{
+  "project_id": 56,
+  "title": "Intelligent Battery Management for Electric Vehicles",
+  "domain": "Electrical Engineering, Battery Technology, AI",
+  "host_institution": "nm university",
+  "pi_name": "Mahesh ",
+  "pi_email": "",
+  "duration_weeks": 12,
+  "proposal": {
+    "version": 18,
+    "title": "Investigation into Intelligent Battery Management for Electric Vehicles: An Autonomous High-Assurance Research Framework",
+    "executive_summary": "This investigation addresses urgent scientific and technical challenges in Intelligent Battery Management for Electric Vehicles within the domain of Electrical Engineering, Battery Technology, AI. Existing methodologies suffer from significant operational bottlenecks, empirical latency, and vulnerability to operational drift. Under the leadership of Mahesh  at nm university, this 12-week grant project deploys a systematic four-phase investigative methodology designed to establish measurable performance breakthroughs, verifiable reproducibility, and statutory grant compliance.",
+    "methodology": "The proposed methodology executes an end-to-end, empirical multi-stage research lifecycle: (Phase 1: Theoretical Modeling & Formulation) Formulate rigorous analytical representations and baseline telemetry protocols for Intelligent Battery Management for Electric Vehicles. (Phase 2: Prototype & System Architecture) Design and implement modular prototype units integrating real-time sensory perception, algorithmic processing, and error-bounding guardrails. (Phase 3: Characterization & Stress Validation) Subject the integrated system to high-dimensional operational perturbations, cross-validating empirical findings against prior art. (Phase 4: Field Validation & Deployment) Conduct pilot validation in target experimental environments at nm university, accompanied by automated compliance auditing and artifact preservation."
+  },
+  "budget": {
+    "total_requested": 1500000.0,
+    "equipment": 547826.09,
+    "manpower": 365217.39,
+    "overhead": 130434.78
+  },
+  "compliance": {
+    "status": "WARNINGS",
+    "score": 70.0
+  },
+  "is_ready_for_approval": true,
+  "package_generated_at": "2026-11-20T16:03:48.523680"
+}
